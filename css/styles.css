@@ -2,7 +2,7 @@ body{
   font-family: "Montserrat";
 }
 #title{
-  background-color: #e3fdfd;
+  background-color: #71c9ce;
   color: white;
 }
 .container-fluid{
@@ -57,7 +57,7 @@ width: 60%;
 
 }
 .icon:hover{
-  color: #ff4c68;
+  color: #71c9ce;
 }
 h2{
   font-size: 3rem;
@@ -65,7 +65,7 @@ h2{
 }
 
 #testimonials{
-  background-color: #e3fdfd;
+  background-color: #71c9ce;
   text-align: center;
   color: white;
   /* position: relative;
@@ -77,7 +77,7 @@ h2{
   border-radius: 100%;
 }
 #press{
-  background-color: #e3fdfd;
+  background-color: #71c9ce;
   padding-bottom: 3%;
   text-align: center;
   /* position: relative;
@@ -108,7 +108,7 @@ h2{
 }
 #cta{
   text-align: center;
-  background-color: #e3fdfd;
+  background-color: #71c9ce;
   color: white;
   /* padding-bottom: 7%; */
 }
